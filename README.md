@@ -1,8 +1,34 @@
-## Youtube_Trending_Visual_Summer_2018
+## Youtube Trending Videos Visualization
 
-#### Dataset Description
-*A dataset of Youtube's daily Trending videos' stats from Nov'17 to Jun'18.*
-https://www.kaggle.com/datasnaek/youtube-new/home
+### Summary
+The goal of this project is to understand trends and gain interesting insights through analyzing the Youtube trending videos for the given period (From Nov'17 to Jun'18). According to Forbes Magzine, YouTube Stars Influence Millennials More Than
+Traditional Celebrities. This aroused our interest to see which speciifc videos or which category was the most popular over time. We mainly used Matplotlib and Seaborn packages in Python to generate visualizations related to the video titles and the number of total views. 
 
-#### Goal 
-Utilizing Python's visulizations packages to discover interesting insights from this dataset.
+We first wanted to know what is the most popular category.
+
+## bar plot
+
+#### Insights
+We can see the top 2 popular categories are 'Music' and 'Entertainment'. Their views are far more than the other categories. 
+
+Then we analyzed topic popularity using Word Cloud to see what is the top viewed "MUSIC" videos.
+
+## music 云图
+#### Insights
+We are seeing many pop artist names here. 'Childish' 'Gambino', 'Cardi', 'Ariana', 'Grande', 'Ed Sheeran', 'Jennifer' are the most popular ones among them during this period. More than 95% of the occurrence of the keyword 'america' comes from the MV 'This is America' by 'Childish Gambino'.
+
+We'd like to know how user reacted to the Top 10 Music/Entertainment Videos by analyzing "Dislikes/Likes" Ratios.
+
+## dislike/like ratio图
+
+#### Insights
+Among the Top 10 viewed music/entertainment videos, YouTube Rewind: The Shape of 2017 has the highest dislikes/likes ratio. This ratio is far more than the other videos'. This finding tells us that sometimes people don't really like the content but were still attracted by it, or maybe the other way around. This is probably because bad/unpleasant things sometimes tend to draw more attentions and be more popular. 
+
+
+### Datasets
+*The dataset is collected using Youtube API. It contains Youtube's daily Trending videos' stats from Nov'17 to Jun'18.*
+https://www.kaggle.com/datasnaek/youtube-new
+
+This dataset has 16 features in total. We picked 6 features to explore. 
+Trending_date, Title of video, category_id, Number of views, Number of likes, Number of comments.
+
