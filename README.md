@@ -29,6 +29,6 @@ Among the Top 10 viewed music/entertainment videos, YouTube Rewind: The Shape of
 *The dataset is collected using Youtube API. It contains Youtube's daily Trending videos' stats from Nov'17 to Jun'18.*
 https://www.kaggle.com/datasnaek/youtube-new
 
-This dataset has 16 features in total. We picked 6 features to explore. 
-Trending_date, Title of video, category_id, Number of views, Number of likes, Number of comments.
+This dataset has 16 features in total. We picked 7 features to explore. 
+Trending_date, Title of video, category_id, Number of views, Number of likes, Number of dislikes, Number of comments.
 
