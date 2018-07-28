@@ -6,8 +6,6 @@ Traditional Celebrities. This aroused our interest to see which speciifc videos 
 
 We first wanted to know what is the most popular category.
 
-## Bar Plot
-
 
 ![bar](https://user-images.githubusercontent.com/33774515/43359380-5909a6ce-9256-11e8-9a2e-f45ff9ff46fb.png)
 
@@ -21,13 +19,11 @@ We can see the top 2 popular categories are 'Music' and 'Entertainment'. Their v
 
 Then we analyzed topic popularity using Word Cloud to see what is the top viewed "MUSIC" videos.
 
-## Music WordClouds
 
 
 ![music_word](https://user-images.githubusercontent.com/33774515/43359385-79250afc-9256-11e8-96e0-edf797b29538.png)
 
 
-#### Insights
 We are seeing many pop artist names here. 'Childish' 'Gambino', 'Cardi', 'Ariana', 'Grande', 'Ed Sheeran', 'Jennifer' are the most popular ones among them during this period. More than 95% of the occurrence of the keyword 'america' comes from the MV 'This is America' by 'Childish Gambino'.
 
 We'd like to know how user reacted to the Top 10 Music/Entertainment Videos by analyzing "Dislikes/Likes" Ratios.
@@ -36,7 +32,6 @@ We'd like to know how user reacted to the Top 10 Music/Entertainment Videos by a
 
 ![dislikes likes](https://user-images.githubusercontent.com/33774515/43359345-c0ab2650-9255-11e8-8dc8-a673404e3aff.png)
 
-#### Insights
 Among the Top 10 viewed music/entertainment videos, YouTube Rewind: The Shape of 2017 has the highest dislikes/likes ratio. This ratio is far more than the other videos'. This finding tells us that sometimes people don't really like the content but were still attracted by it, or maybe the other way around. This is probably because bad/unpleasant things sometimes tend to draw more attentions and be more popular. 
 
 
