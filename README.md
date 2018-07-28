@@ -14,7 +14,7 @@ We first wanted to know what is the most popular category.
 ![box](https://user-images.githubusercontent.com/33774515/43359384-71e52e02-9256-11e8-83b0-5c8fac5aba6b.png)
 
 
-#### Insights
+
 We can see the top 2 popular categories are 'Music' and 'Entertainment'. Their views are far more than the other categories. 
 
 Then we analyzed topic popularity using Word Cloud to see what is the top viewed "MUSIC" videos.
