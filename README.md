@@ -19,7 +19,7 @@ We are seeing many pop artist names here. 'Childish' 'Gambino', 'Cardi', 'Ariana
 
 We'd like to know how user reacted to the Top 10 Music/Entertainment Videos by analyzing "Dislikes/Likes" Ratios.
 
-## Dislike/like Ratio Graph
+## Dislikes/Likes Ratio Graph
 
 #### Insights
 Among the Top 10 viewed music/entertainment videos, YouTube Rewind: The Shape of 2017 has the highest dislikes/likes ratio. This ratio is far more than the other videos'. This finding tells us that sometimes people don't really like the content but were still attracted by it, or maybe the other way around. This is probably because bad/unpleasant things sometimes tend to draw more attentions and be more popular. 
