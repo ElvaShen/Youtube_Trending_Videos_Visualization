@@ -7,6 +7,8 @@ Traditional Celebrities. This aroused our interest to see which speciifc videos 
 We first wanted to know what is the most popular category.
 
 ## Bar Plot
+![bar](https://user-images.githubusercontent.com/33774515/43359380-5909a6ce-9256-11e8-9a2e-f45ff9ff46fb.png)
+
 
 #### Insights
 We can see the top 2 popular categories are 'Music' and 'Entertainment'. Their views are far more than the other categories. 
