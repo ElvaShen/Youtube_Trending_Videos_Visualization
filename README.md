@@ -26,11 +26,11 @@ Then we analyzed topic popularity using Word Cloud to see what is the top viewed
 
 We are seeing many pop artist names here. 'Childish' 'Gambino', 'Cardi', 'Ariana', 'Grande', 'Ed Sheeran', 'Jennifer' are the most popular ones among them during this period. More than 95% of the occurrence of the keyword 'america' comes from the MV 'This is America' by 'Childish Gambino'.
 
-We'd like to know how user reacted to the Top 10 Music/Entertainment Videos by analyzing "Dislikes/Likes" Ratios.
+We'd like to know how user reacted to the Top 10 Music/Entertainment Videos by analyzing "Like Percentage" Ratios.
 
-![dislikes likes](https://user-images.githubusercontent.com/33774515/43359345-c0ab2650-9255-11e8-8dc8-a673404e3aff.png)
+![like_pct](https://user-images.githubusercontent.com/33774515/43363661-d9efddfe-92be-11e8-9876-e8d27c65570d.png)
 
-Among the Top 10 viewed music/entertainment videos, YouTube Rewind: The Shape of 2017 has the highest dislikes/likes ratio. This ratio is far more than the other videos'. This finding tells us that sometimes people don't really like the content but were still attracted by it, or maybe the other way around. This is probably because bad/unpleasant things sometimes tend to draw more attentions and be more popular. 
+Among the Top 10 viewed music/entertainment videos, YouTube Rewind: The Shape of 2017 has the lowest 'like percentage' ratio. This ratio is far more lower than the other videos'. This finding tells us that sometimes people don't really like the content but were still attracted by it, or maybe the other way around. This is probably because bad/unpleasant things sometimes tend to draw more attentions and be more popular. 
 
 
 ### Datasets
