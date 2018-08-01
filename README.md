@@ -27,7 +27,7 @@ Then we analyzed topic popularity using Word Cloud to see what is the top viewed
 
 We are seeing many pop artist names here. 'Childish' 'Gambino', 'Cardi', 'Ariana', 'Grande', 'Ed Sheeran', 'Jennifer' are the most popular ones among them during this period. More than 95% of the occurrence of the keyword 'america' comes from the MV 'This is America' by 'Childish Gambino'.
 
-We'd like to know how user reacted to the Top 10 Music/Entertainment Videos by analyzing "Like Percentage" Ratios.
+We'd like to know how users reacted to the Top 10 Music/Entertainment Videos by analyzing "Like Percentage" Ratios.
 
 
 
