@@ -1,6 +1,6 @@
 ## Youtube Trending Videos Visualization
 
-Author: Elva Shen, 
+Author: Elva Shen, Clyde Liu
 
 ### Summary
 The goal of this project is to understand trends and gain interesting insights through analyzing the Youtube trending videos for the given period (From Nov'17 to Jun'18). According to Forbes Magzine, YouTube Stars Influence Millennials More Than
