@@ -1,5 +1,7 @@
 ## Youtube Trending Videos Visualization
 
+Author: Elva Shen, Clyde Liu
+
 ### Summary
 The goal of this project is to understand trends and gain interesting insights through analyzing the Youtube trending videos for the given period (From Nov'17 to Jun'18). According to Forbes Magzine, YouTube Stars Influence Millennials More Than
 Traditional Celebrities. This aroused our interest to see which speciifc videos or which category was the most popular over time. We mainly used Matplotlib and Seaborn packages in Python to generate visualizations related to the video titles and the number of total views. 
